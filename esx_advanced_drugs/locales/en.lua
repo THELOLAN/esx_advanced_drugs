@@ -1,0 +1,26 @@
+-- Leaked By: Leaking Hub | J. Snow | leakinghub.com
+locales['en'] = {
+    ['not_enough'] = "You don't have enough ~r~%s",
+    ['open_lab'] = "Press ~INPUT_CONTEXT~ to use the lab",
+    ['press_to_stop'] = "Press ~INPUT_CONTEXT~ to stop",
+    ['stopped'] = "You stopped",
+    ['too_far'] = "You left the lab",
+    ['lab'] = "Laboratory",
+    ['interact'] = "Press ~INPUT_CONTEXT~ to interact",
+    ['sold'] = "You sold x%d %s",
+    ['height'] = "Current height: %s%dm", -- %s will be the color, don't remove it
+    ['nothing_useful'] = "You have nothing useful",
+    ['minimum_altitude'] = "You are not above the minimum altitude",
+    ['remain_to_sell'] = "Remain above this altitude for ~g~%ds~s~ in order to sell drugs",
+    ['timer'] = "Wait ~g~%ds~s~ to sell drugs",
+    ['plane_spotted'] = "A suspicious plane has been spotted in the map",
+    ['boat_spotted'] = "A suspicious boat has been spotted in the map",
+    ['no_space'] = "You have no more space",
+    ['crafting_drug'] = "Crafting %s",
+    ['wrong_items'] = "You used wrong ingredients",
+    ['press_to_sell'] = "Press E to sell drugs",
+    ['drug_not_wanted'] = "The guy doesn't want any drug, ~r~you should run for the hills~s~",
+    ['sold_for'] = "You sold ~y~x%d %s~s~ for ~g~$%s~s~",
+    ['someone_tried_to_sell_drugs'] = "Someone tried to sell ~r~drugs~s~ at ~y~%s~s~",
+    ['not_enough_police'] = "There isn't enough police",
+}
